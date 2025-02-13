@@ -1,3 +1,5 @@
+##This script will prompt you for a text file, import the names of a device and add them to a group that you specify.  There is no need for a GUID/Device ID/Azure Device ID, or anything else. Just displayname. 
+
 ###################################################################################
 #                       Adjust these variables accordingly                        #
 ###################################################################################
