@@ -9,3 +9,7 @@ Links:
 - Set File Type Associations on Windows 11
 
 - https://github.com/DanysysTeam/PS-SFTA
+
+- Toast Notifications
+
+- https://msendpointmgr.com/2020/06/25/endpoint-analytics-proactive-remediations/
