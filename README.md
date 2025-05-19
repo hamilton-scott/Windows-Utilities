@@ -14,3 +14,7 @@ Set File Type Associations on Windows 11
 Toast Notifications
 
 - https://msendpointmgr.com/2020/06/25/endpoint-analytics-proactive-remediations/
+
+LetsDoAutomation Collection - Scripts and guides for common automation tasks in Windows
+
+- https://github.com/letsdoautomation/powershell
