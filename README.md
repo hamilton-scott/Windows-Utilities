@@ -18,3 +18,6 @@ Toast Notifications
 LetsDoAutomation Collection - Scripts and guides for common automation tasks in Windows
 
 - https://github.com/letsdoautomation/powershell
+
+Winget Auto Update (Forked from Romanitho's work)
+- https://github.com/Weatherlights/Winget-AutoUpdate-Intune
