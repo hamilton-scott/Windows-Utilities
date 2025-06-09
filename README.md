@@ -21,3 +21,6 @@ LetsDoAutomation Collection - Scripts and guides for common automation tasks in 
 
 Winget Auto Update (Forked from Romanitho's work)
 - https://github.com/Weatherlights/Winget-AutoUpdate-Intune
+
+Silent Flag Detection for .exe files
+- https://gist.github.com/dkattan/e0d4b6a5f72ab8fc1825fa1c1ecb3a83
