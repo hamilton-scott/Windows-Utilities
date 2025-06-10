@@ -25,5 +25,5 @@ Winget Auto Update (Forked from Romanitho's work)
 Silent Flag Detection for .exe files
 - https://gist.github.com/dkattan/e0d4b6a5f72ab8fc1825fa1c1ecb3a83
 
-Silent Install HQ site (good for finding PSADT scripts, though should be used as a baseline only)
+Silent Install HQ site (good for finding PSADT scripts, "gotchas" w.r.t. specific software installs)
 - https://silentinstallhq.com/
