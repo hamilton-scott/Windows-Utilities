@@ -27,3 +27,7 @@ Silent Flag Detection for .exe files
 
 Silent Install HQ site (good for finding PSADT scripts, "gotchas" w.r.t. specific software installs)
 - https://silentinstallhq.com/
+
+SCCM Client locations/cheat sheet
+- install log = C:\Windows\ccmsetup\Logs
+- repair = C:\Windows\CCM\CCMRepair.exe
