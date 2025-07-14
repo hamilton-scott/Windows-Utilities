@@ -1,4 +1,3 @@
-        ##TODO <Detection Script>
           $CertPath = "$dirFiles\Certificates"  # Change this to your actual folder path
 
           # Define the Path of the Certificate store you want to test. 
