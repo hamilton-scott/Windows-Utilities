@@ -28,6 +28,10 @@ Silent Flag Detection for .exe files
 Silent Install HQ site (good for finding PSADT scripts, "gotchas" w.r.t. specific software installs)
 - https://silentinstallhq.com/
 
+List and change BIOS settings via Powershell
+- https://www.systanddeploy.com/2019/03/list-and-change-bios-settings-with.html
+
+
 SCCM Client locations/cheat sheet
 - install log = C:\Windows\ccmsetup\Logs
 - repair = C:\Windows\CCM\CCMRepair.exe
